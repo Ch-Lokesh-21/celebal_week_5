@@ -36,8 +36,8 @@ A Spotify 2.0 Clone Music App with enhanced features. Include music playlists, s
 
 1. **Clone the repository**
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/Ch-Lokesh-21/celebal_week_5.git
+   cd celebal_week_5
    ```
 2. **Install Dependencies**
     ```bash

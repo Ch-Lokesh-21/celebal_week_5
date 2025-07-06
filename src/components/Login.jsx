@@ -4,7 +4,7 @@ import styled from "styled-components";
 export default function Login() {
   const handleClick = async () => {
     const client_id = process.env.REACT_APP_CLIENT_ID;
-    const redirect_uri = "https://celebal-week-5-pi.vercel.app/"
+    const redirect_uri = "https://celebal-week-5-kappa.vercel.app/";
     const api_uri = "https://accounts.spotify.com/authorize";
     const scope = [
       "user-read-private",
