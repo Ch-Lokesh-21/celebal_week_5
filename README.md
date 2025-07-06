@@ -23,15 +23,6 @@ A Spotify 2.0 Clone Music App with enhanced features. Include music playlists, s
 - **State Management**: React Context API
 
 ---
-
-## 📸 Screenshots
-
-![image1]()
-![image2]()
-
-
----
-
 ## 🔑 Setup and Run Locally
 
 1. **Clone the repository**
@@ -46,7 +37,6 @@ A Spotify 2.0 Clone Music App with enhanced features. Include music playlists, s
 3. **Create a `.env` file in the root directory and config them**
     ```bash
     REACT_APP_CLIENT_ID=
-    REACT_APP_REDIRECT_URL=
    ```
 4. **Run the development server:**
     ```bash
